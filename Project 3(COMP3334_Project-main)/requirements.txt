@@ -1,0 +1,5 @@
+certifi==2021.10.8
+dnspython==2.2.1
+Pillow==9.1.0
+pymongo==4.1.1
+tzdata==2022.1

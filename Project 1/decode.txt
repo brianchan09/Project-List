@@ -1,0 +1,107 @@
+######################  MAIN  #########################
+
+***************** bug fixed *********************
+	input: 非整數 -> ERROR;
+
+*************************************************
+choice = 一開始 1-6 item
+
+新增：Option 6 退出 Program
+
+#######################################################
+#####################  ADD DATA  ######################
+
+*************** Program updated (Verson 4)*******************
+	一開始輸入非整數(abc)會error;
+	繼續時輸入 "Y" 和 "N"(大寫 Y 和 N ) 會 logical error
+	Wrong spelling on "Destination" and "delete"
+	Improvement on display item 
+	如果沒有file就用display function 會 error;
+	新增 Option 6 退出 Program
+	完成 search data
+************************************************************
+
+
+appfile			== file name used in add
+
+recnumber		== record number	(R)
+itemname 		== same    		(N)
+itemnum 		== item number		(I)
+category 		== same			(C)
+quantity  		== same			(Q)
+weight			== same			(W)
+recipent		== same			(B)
+finDes			== Final Destination	(F)
+deli			== delivery status	(D)
+
+contin                  == continue to process
+			   the program
+
+#######################################################
+
+
+###################  Display data  ####################
+
+***************** bug fixed *********************
+
+	沒有file -> error occur;
+	Improvement on display item ( Record number: 1001, XX 1001)
+	
+
+
+************************************************
+
+
+// LISTs    >>  Display use        
+Rec_num			== R
+item_name		== N
+item_num		== I
+cate			== C
+quant			== Q
+weight			== W
+reci			== R
+final_des		== F
+deli_stat		== D
+newline			== a new line storage in txt file (L)
+
+/////////////////////////////////////////////////////////
+
+
+%% String   >> Data copies from txt file  (Useless)
+
+Recnum			== R	
+itemnam			== N
+itemnum			== I
+categ			== C
+quanti 			== Q
+weights 		== W
+recip 			== R
+fianldes		== F
+delistat		== D
+newlines		== L
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+disfile			== file name used in display
+
+
+
+#######################################################
+
+##################  Delete data  ######################
+
+
+************** bug fixed ************************
+	沒有file -> error occur;
+	contin: input Y or N will logical error;
+	Wrong spelling on "delete"
+************************************************
+
+search			== seach all element on txt file 
+			   to del the excat item (record 
+			   number)
+f 			== file name used in delete
+
+
+#######################################################

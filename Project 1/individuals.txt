@@ -1,0 +1,11 @@
+1. Display item length
+2. Color of text
+3. Color of background
+4. Color of searched text
+5. Color of Searched background
+6. Auto clean screen
+7. Auto save
+8. Show initial item in modify mode
+
+
+
