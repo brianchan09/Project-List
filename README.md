@@ -1,7 +1,7 @@
 # Project-List
-List of project that I haved been done before.
-Name and Id are buried for the privacy and safety problem.
-Some of the projects may lack of user manual.<br>
+List of projects that I have done before.
+Name and Id are buried for the privacy and safety reason.
+Some of the projects may lack of user manual due to files lost.<br>
 
 Previous Co-operation Link:<br>
 Security requirement prototype: [Here][Link2] (Need permission to view, same content listed, but no commit record or edit history)<br>
