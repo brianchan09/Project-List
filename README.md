@@ -1,4 +1,10 @@
 # Project-List
 List of project that I haved been done before.
 Name and Id are buried for the privacy and safety problem.
-Some of the projects may lack of user manual.
+Some of the projects may lack of user manual.<br>
+
+Previous Co-operation Link:
+Security requirement prototype: [Here][Link2] (Need permission to view, same content listed, but no commit record or edit history)
+Team meeting allocation program: [Here][Link1]
+[Link1]: https://github.com/mkcheung568/Operating_Systems_Project
+[Link2]: https://github.com/FelipeWong/COMP3334_Project
