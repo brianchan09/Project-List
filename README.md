@@ -8,4 +8,4 @@ Security requirement prototype: [Here][Link2] (Need permission to view, same con
 Team meeting allocation program: [Here][Link1] <br>
 
 [Link1]: https://github.com/mkcheung568/Operating_Systems_Project
-[Link2]: https://github.com/FelipeWong/COMP3334_Project
+[Link2]: https://github.com/mkcheung568/OS-PMS
